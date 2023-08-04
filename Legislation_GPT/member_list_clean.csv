@@ -1,0 +1,651 @@
+,member_id,display_name,list_name,full_title,address as,constituency,member_party,gender
+0,8,Mrs Theresa May,"May, Mrs Theresa",Rt Hon Theresa May MP,Mrs May,Maidenhead,Conservative,F
+1,14,John Redwood,"Redwood, John",Rt Hon John Redwood MP,John Redwood,Wokingham,Conservative,M
+2,36,Dame Eleanor Laing,"Laing, Dame Eleanor",Rt Hon Dame Eleanor Laing MP,Dame Eleanor Laing,Epping Forest,Conservative,F
+3,39,Sir John Whittingdale,"Whittingdale, Sir John",Sir John Whittingdale MP,,Maldon,Conservative,M
+4,40,Sir Bernard Jenkin,"Jenkin, Sir Bernard",Sir Bernard Jenkin MP,Sir Bernard,Harwich and North Essex,Conservative,M
+5,54,Sir Julian Lewis,"Lewis, Sir Julian",Rt Hon Sir Julian Lewis MP,Sir Julian Lewis,New Forest East,Conservative,M
+6,55,Sir Desmond Swayne,"Swayne, Sir Desmond",Rt Hon Sir Desmond Swayne MP,Sir Desmond,New Forest West,Conservative,M
+7,62,Dr Alan Whitehead,"Whitehead, Dr Alan",Dr Alan Whitehead MP,Dr Whitehead,"Southampton, Test",Labour,M
+8,69,Sir Oliver Heald,"Heald, Sir Oliver",Rt Hon Sir Oliver Heald KC MP,Sir Oliver,North East Hertfordshire,Conservative,M
+9,76,Damian Green,"Green, Damian",Rt Hon Damian Green MP,Damian Green,Ashford,Conservative,M
+10,87,Sir Roger Gale,"Gale, Sir Roger",Rt Hon Sir Roger Gale MP,Sir Roger,North Thanet,Conservative,M
+11,103,Sir Paul Beresford,"Beresford, Sir Paul",Sir Paul Beresford MP,Sir Paul,Mole Valley,Conservative,M
+12,104,Crispin Blunt,"Blunt, Crispin",Crispin Blunt MP,Mr Blunt,Reigate,Conservative,M
+13,111,Nick Gibb,"Gibb, Nick",Rt Hon Nick Gibb MP,Nick Gibb,Bognor Regis and Littlehampton,Conservative,M
+14,114,Tim Loughton,"Loughton, Tim",Tim Loughton MP,Tim Loughton,East Worthing and Shoreham,Conservative,M
+15,117,Sir Peter Bottomley,"Bottomley, Sir Peter",Sir Peter Bottomley MP,Sir Peter,Worthing West,Conservative,M
+16,140,Dame Margaret Hodge,"Hodge, Dame Margaret",Rt Hon Dame Margaret Hodge MP,Dame Margaret Hodge,Barking,Labour,F
+17,146,Barry Gardiner,"Gardiner, Barry",Barry Gardiner MP,Barry Gardiner,Brent North,Labour,M
+18,150,Ms Harriet Harman,"Harman, Ms Harriet",Rt Hon Harriet Harman KC MP,Ms Harman,Camberwell and Peckham,Labour,F
+19,152,Sir Iain Duncan Smith,"Duncan Smith, Sir Iain",Rt Hon Sir Iain Duncan Smith MP,Sir Iain Duncan Smith,Chingford and Woodford Green,Conservative,M
+20,155,Geraint Davies,"Davies, Geraint",Geraint Davies MP,Geraint Davies,Swansea West,Independent,M
+21,163,Sir Stephen Timms,"Timms, Sir Stephen",Rt Hon Sir Stephen Timms MP,Sir Stephen Timms,East Ham,Labour,M
+22,165,Clive Efford,"Efford, Clive",Clive Efford MP,Clive Efford,Eltham,Labour,M
+23,172,Ms Diane Abbott,"Abbott, Ms Diane",Rt Hon Diane Abbott MP,Ms Abbott,Hackney North and Stoke Newington,Independent,F
+24,177,Gareth Thomas,"Thomas, Gareth",Gareth Thomas MP,Gareth Thomas,Harrow West,Labour (Co-op),M
+25,178,John McDonnell,"McDonnell, John",Rt Hon John McDonnell MP,John McDonnell,Hayes and Harlington,Labour,M
+26,181,John Cryer,"Cryer, John",John Cryer MP,John Cryer,Leyton and Wanstead,Labour,M
+27,185,Jeremy Corbyn,"Corbyn, Jeremy",Rt Hon Jeremy Corbyn MP,Jeremy Corbyn,Islington North,Independent,M
+28,188,Ed Davey,"Davey, Ed",Rt Hon Ed Davey MP,,Kingston and Surbiton,Liberal Democrat,M
+29,193,Siobhain McDonagh,"McDonagh, Siobhain",Siobhain McDonagh MP,Siobhain McDonagh,Mitcham and Morden,Labour,F
+30,199,Ms Karen Buck,"Buck, Ms Karen",Ms Karen Buck MP,Ms Buck,Westminster North,Labour,F
+31,206,Mr David Lammy,"Lammy, Mr David",Rt Hon David Lammy MP,Mr Lammy,Tottenham,Labour,M
+32,223,Dr Liam Fox,"Fox, Dr Liam",Rt Hon Dr Liam Fox MP,Dr Fox,North Somerset,Conservative,M
+33,230,Mr Ben Bradshaw,"Bradshaw, Mr Ben",Rt Hon Ben Bradshaw MP,Mr Bradshaw,Exeter,Labour,M
+34,234,Sir Gary Streeter,"Streeter, Sir Gary",Sir Gary Streeter MP,Sir Gary Streeter,South West Devon,Conservative,M
+35,242,Sir Christopher Chope,"Chope, Sir Christopher",Sir Christopher Chope MP,Sir Christopher,Christchurch,Conservative,M
+36,245,Sir Robert Syms,"Syms, Sir Robert",Sir Robert Syms MP,Sir Robert,Poole,Conservative,M
+37,249,Sir Geoffrey Clifton-Brown,"Clifton-Brown, Sir Geoffrey",Sir Geoffrey Clifton-Brown MP,Sir Geoffrey,The Cotswolds,Conservative,M
+38,253,Mr Laurence Robertson,"Robertson, Mr Laurence",Mr Laurence Robertson MP,Mr Robertson,Tewkesbury,Conservative,M
+39,261,James Gray,"Gray, James",James Gray MP,James Gray,North Wiltshire,Conservative,M
+40,280,Michael Fabricant,"Fabricant, Michael",Michael Fabricant MP,Michael Fabricant,Lichfield,Conservative,M
+41,288,Sir William Cash,"Cash, Sir William",Sir William Cash MP,Sir William,Stone,Conservative,M
+42,298,Steve McCabe,"McCabe, Steve",Steve McCabe MP,Steve McCabe,"Birmingham, Selly Oak",Labour,M
+43,318,John Spellar,"Spellar, John",Rt Hon John Spellar MP,,Warley,Labour,M
+44,328,Margaret Beckett,"Beckett, Margaret",Rt Hon Margaret Beckett MP,Margaret Beckett,Derby South,Labour,F
+45,345,Sir Edward Leigh,"Leigh, Sir Edward",Rt Hon Sir Edward Leigh MP,Sir Edward,Gainsborough,Conservative,M
+46,350,Sir John Hayes,"Hayes, Sir John",Rt Hon Sir John Hayes MP,,South Holland and The Deepings,Conservative,M
+47,373,Mr David Davis,"Davis, Mr David",Rt Hon David Davis MP,Mr Davis,Haltemprice and Howden,Conservative,M
+48,390,Dame Rosie Winterton,"Winterton, Dame Rosie",Rt Hon Dame Rosie Winterton MP,Dame Rosie Winterton,Doncaster Central,Labour,F
+49,394,Mr Clive Betts,"Betts, Mr Clive",Mr Clive Betts MP,Mr Betts,Sheffield South East,Labour,M
+50,400,John Healey,"Healey, John",Rt Hon John Healey MP,John Healey,Wentworth and Dearne,Labour,M
+51,410,Jon Trickett,"Trickett, Jon",Jon Trickett MP,Jon Trickett,Hemsworth,Labour,M
+52,411,Mr Barry Sheerman,"Sheerman, Mr Barry",Mr Barry Sheerman MP,Mr Barry Sheerman,Huddersfield,Labour (Co-op),M
+53,413,Hilary Benn,"Benn, Hilary",Rt Hon Hilary Benn MP,Hilary Benn,Leeds Central,Labour,M
+54,415,Fabian Hamilton,"Hamilton, Fabian",Fabian Hamilton MP,Fabian Hamilton,Leeds North East,Labour,M
+55,420,Yvette Cooper,"Cooper, Yvette",Rt Hon Yvette Cooper MP,Yvette Cooper,"Normanton, Pontefract and Castleford",Labour,F
+56,429,Derek Twigg,"Twigg, Derek",Derek Twigg MP,Derek Twigg,Halton,Labour,M
+57,435,Sir Graham Brady,"Brady, Sir Graham",Sir Graham Brady MP,Sir Graham,Altrincham and Sale West,Conservative,M
+58,449,Graham Stringer,"Stringer, Graham",Graham Stringer MP,Graham Stringer,Blackley and Broughton,Labour,M
+59,450,Tony Lloyd,"Lloyd, Tony",Tony Lloyd MP,Tony Lloyd,Rochdale,Labour,M
+60,467,Sir Lindsay Hoyle,"Hoyle, Sir Lindsay",Rt Hon Sir Lindsay Hoyle MP,Sir Lindsay,Chorley,Speaker,M
+61,473,Sir Mark Hendrick,"Hendrick, Sir Mark",Sir Mark Hendrick MP,Sir Mark,Preston,Labour (Co-op),M
+62,474,Mr Nigel Evans,"Evans, Mr Nigel",Rt Hon Nigel Evans MP,Mr Evans,Ribble Valley,Conservative,M
+63,481,Sir George Howarth,"Howarth, Sir George",Rt Hon Sir George Howarth MP,Sir George Howarth,Knowsley,Labour,M
+64,483,Maria Eagle,"Eagle, Maria",Rt Hon Maria Eagle MP,Maria Eagle,Garston and Halewood,Labour,F
+65,491,Dame Angela Eagle,"Eagle, Dame Angela",Dame Angela Eagle MP,Dame Angela,Wallasey,Labour,F
+66,523,Mr Nicholas Brown,"Brown, Mr Nicholas",Rt Hon Nicholas Brown MP,Mr Brown,Newcastle upon Tyne East,Independent,M
+67,529,Sir Alan Campbell,"Campbell, Sir Alan",Rt Hon Sir Alan Campbell MP,Sir Alan Campbell,Tynemouth,Labour,M
+68,650,Sir Jeffrey M Donaldson,"Donaldson, Sir Jeffrey M",Rt Hon Sir Jeffrey M Donaldson MP,Sir Jeffrey,Lagan Valley,Democratic Unionist Party,M
+69,1171,Liam Byrne,"Byrne, Liam",Rt Hon Liam Byrne MP,Rt Hon. Liam Byrne,"Birmingham, Hodge Hill",Labour,M
+70,1198,Sir David Evennett,"Evennett, Sir David",Rt Hon Sir David Evennett MP,Sir David Evennett,Bexleyheath and Crayford,Conservative,M
+71,1200,Sir Greg Knight,"Knight, Sir Greg",Rt Hon Sir Greg Knight MP,Sir Greg,East Yorkshire,Conservative,M
+72,1211,Mr Andrew Mitchell,"Mitchell, Mr Andrew",Rt Hon Andrew Mitchell MP,Mr Mitchell,Sutton Coldfield,Conservative,M
+73,1383,Mark Tami,"Tami, Mark",Rt Hon Mark Tami MP,Mark Tami,Alyn and Deeside,Labour,M
+74,1390,Mr John Baron,"Baron, Mr John",Mr John Baron MP,Mr Baron,Basildon and Billericay,Conservative,M
+75,1392,Mr Khalid Mahmood,"Mahmood, Mr Khalid",Mr Khalid Mahmood MP,Mr Mahmood,"Birmingham, Perry Barr",Labour,M
+76,1396,Mr Ian Liddell-Grainger,"Liddell-Grainger, Mr Ian",Mr Ian Liddell-Grainger MP,Mr Liddell-Grainger,Bridgwater and West Somerset,Conservative,M
+77,1397,Hywel Williams,"Williams, Hywel",Hywel Williams MP,Hywel Williams,Arfon,Plaid Cymru,M
+78,1398,Wayne David,"David, Wayne",Wayne David MP,Wayne David,Caerphilly,Labour,M
+79,1400,Kevin Brennan,"Brennan, Kevin",Kevin Brennan MP,Kevin Brennan,Cardiff West,Labour,M
+80,1406,Jon Cruddas,"Cruddas, Jon",Jon Cruddas MP,Jon Cruddas,Dagenham and Rainham,Labour,M
+81,1409,Mr Gregory Campbell,"Campbell, Mr Gregory",Mr Gregory Campbell MP,Mr Campbell,East Londonderry,Democratic Unionist Party,M
+82,1413,Chris Grayling,"Grayling, Chris",Rt Hon Chris Grayling MP,Chris Grayling,Epsom and Ewell,Conservative,M
+83,1416,Michelle Gildernew,"Gildernew, Michelle",Michelle Gildernew MP,Michelle Gildernew,Fermanagh and South Tyrone,Sinn Féin,F
+84,1425,Mr Jonathan Djanogly,"Djanogly, Mr Jonathan",Mr Jonathan Djanogly MP,Mr Djanogly,Huntingdon,Conservative,M
+85,1428,Sir Bill Wiggin,"Wiggin, Sir Bill",Sir Bill Wiggin MP,Sir Bill Wiggin,North Herefordshire,Conservative,M
+86,1438,Mr Kevan Jones,"Jones, Mr Kevan",Rt Hon Kevan Jones MP,Mr Jones,North Durham,Labour,M
+87,1440,Pete Wishart,"Wishart, Pete",Pete Wishart MP,Pete Wishart,Perth and North Perthshire,Scottish National Party,M
+88,1442,Mr Alistair Carmichael,"Carmichael, Mr Alistair",Rt Hon Alistair Carmichael MP,Mr Carmichael,Orkney and Shetland,Liberal Democrat,M
+89,1444,Mr Mark Francois,"Francois, Mr Mark",Rt Hon Mark Francois MP,Mr Francois,Rayleigh and Wickford,Conservative,M
+90,1446,Sir Chris Bryant,"Bryant, Sir Chris",Sir Chris Bryant MP,Sir Chris Bryant,Rhondda,Labour,M
+91,1447,Andrew Rosindell,"Rosindell, Andrew",Andrew Rosindell MP,Andrew Rosindell,Romford,Conservative,M
+92,1451,Mr Richard Bacon,"Bacon, Mr Richard",Mr Richard Bacon MP,Mr Bacon,South Norfolk,Conservative,M
+93,1453,Andrew Selous,"Selous, Andrew",Andrew Selous MP,Andrew Selous,South West Bedfordshire,Conservative,M
+94,1466,Dr Andrew Murrison,"Murrison, Dr Andrew",Rt Hon Dr Andrew Murrison MP,Dr Murrison,South West Wiltshire,Conservative,M
+95,1480,Dame Maria Miller,"Miller, Dame Maria",Rt Hon Dame Maria Miller MP,Dame Maria Miller,Basingstoke,Conservative,F
+96,1481,Ms Nadine Dorries,"Dorries, Ms Nadine",Rt Hon Nadine Dorries MP,,Mid Bedfordshire,Conservative,F
+97,1482,Graham Stuart,"Stuart, Graham",Rt Hon Graham Stuart MP,Graham Stuart,Beverley and Holderness,Conservative,M
+98,1487,Mr Tobias Ellwood,"Ellwood, Mr Tobias",Rt Hon Tobias Ellwood MP,Mr Ellwood,Bournemouth East,Conservative,M
+99,1489,Dawn Butler,"Butler, Dawn",Dawn Butler MP,Dawn Butler,Brent Central,Labour,F
+100,1491,Kerry McCarthy,"McCarthy, Kerry",Kerry McCarthy MP,Kerry McCarthy,Bristol East,Labour,F
+101,1493,Sir Charles Walker,"Walker, Sir Charles",Sir Charles Walker MP,Sir Charles Walker,Broxbourne,Conservative,M
+102,1496,Shailesh Vara,"Vara, Shailesh",Rt Hon Shailesh Vara MP,Shailesh Vara,North West Cambridgeshire,Conservative,M
+103,1500,Theresa Villiers,"Villiers, Theresa",Rt Hon Theresa Villiers MP,,Chipping Barnet,Conservative,F
+104,1502,Mr David Jones,"Jones, Mr David",Rt Hon David Jones MP,Mr Jones,Clwyd West,Conservative,M
+105,1506,Andrew Gwynne,"Gwynne, Andrew",Andrew Gwynne MP,Andrew Gwynne,Denton and Reddish,Labour,M
+106,1508,Sir Geoffrey Cox,"Cox, Sir Geoffrey",Rt Hon Sir Geoffrey Cox KC MP,Sir Geoffrey,Torridge and West Devon,Conservative,M
+107,1510,Edward Miliband,"Miliband, Edward",Rt Hon Edward Miliband MP,Edward Miliband,Doncaster North,Labour,M
+108,1512,David Mundell,"Mundell, David",Rt Hon David Mundell MP,David Mundell,"Dumfriesshire, Clydesdale and Tweeddale",Conservative,M
+109,1514,Stewart Hosie,"Hosie, Stewart",Rt Hon Stewart Hosie MP,Stewart Hosie,Dundee East,Scottish National Party,M
+110,1516,Andy Slaughter,"Slaughter, Andy",Andy Slaughter MP,Andy Slaughter,Hammersmith,Labour,M
+111,1520,Mr Mark Harper,"Harper, Mr Mark",Rt Hon Mark Harper MP,Mr Harper,Forest of Dean,Conservative,M
+112,1521,Mrs Sharon Hodgson,"Hodgson, Mrs Sharon",Mrs Sharon Hodgson MP,Mrs Hodgson,Washington and Sunderland West,Labour,F
+113,1522,Adam Holloway,"Holloway, Adam",Adam Holloway MP,Adam Holloway,Gravesham,Conservative,M
+114,1524,Dame Meg Hillier,"Hillier, Dame Meg",Dame Meg Hillier MP,Dame Meg Hillier,Hackney South and Shoreditch,Labour (Co-op),F
+115,1526,Greg Hands,"Hands, Greg",Rt Hon Greg Hands MP,Greg Hands,Chelsea and Fulham,Conservative,M
+116,1528,Sir Mike Penning,"Penning, Sir Mike",Rt Hon Sir Mike Penning MP,Sir Mike Penning,Hemel Hempstead,Conservative,M
+117,1533,Dame Diana Johnson,"Johnson, Dame Diana",Rt Hon Dame Diana Johnson MP,Dame Diana Johnson,Kingston upon Hull North,Labour,F
+118,1536,Emily Thornberry,"Thornberry, Emily",Rt Hon Emily Thornberry MP,Emily Thornberry,Islington South and Finsbury,Labour,F
+119,1537,Mr Philip Hollobone,"Hollobone, Mr Philip",Mr Philip Hollobone MP,Mr Hollobone,Kettering,Conservative,M
+120,1539,Mr Ben Wallace,"Wallace, Mr Ben",Rt Hon Ben Wallace MP,Mr Wallace,Wyre and Preston North,Conservative,M
+121,1541,Dame Nia Griffith,"Griffith, Dame Nia",Dame Nia Griffith MP,,Llanelli,Labour,F
+122,1542,Philip Dunne,"Dunne, Philip",Rt Hon Philip Dunne MP,Mr Dunne,Ludlow,Conservative,M
+123,1545,David T C Davies,"Davies, David T C",Rt Hon David T C Davies MP,David T C Davies,Monmouth,Conservative,M
+124,1546,Angus Brendan MacNeil,"MacNeil, Angus Brendan",Angus Brendan MacNeil MP,Angus Brendan MacNeil,Na h-Eileanan an Iar,Independent,M
+125,1548,Jessica Morden,"Morden, Jessica",Jessica Morden MP,Jessica Morden,Newport East,Labour,F
+126,1554,Stephen Crabb,"Crabb, Stephen",Rt Hon Stephen Crabb MP,Stephen Crabb,Preseli Pembrokeshire,Conservative,M
+127,1559,Sir James Duddridge,"Duddridge, Sir James",Sir James Duddridge MP,Sir James Duddridge,Rochford and Southend East,Conservative,M
+128,1560,Sir Jeremy Wright,"Wright, Sir Jeremy",Rt Hon Sir Jeremy Wright KC MP,Sir Jeremy Wright,Kenilworth and Southam,Conservative,M
+129,1562,Sir Robert Goodwill,"Goodwill, Sir Robert",Sir Robert Goodwill MP,Sir Robert Goodwill,Scarborough and Whitby,Conservative,M
+130,1565,Philip Davies,"Davies, Philip",Philip Davies MP,Philip Davies,Shipley,Conservative,M
+131,1566,Daniel Kawczynski,"Kawczynski, Daniel",Daniel Kawczynski MP,Daniel Kawczynski,Shrewsbury and Atcham,Conservative,M
+132,1571,Michael Gove,"Gove, Michael",Rt Hon Michael Gove MP,Michael Gove,Surrey Heath,Conservative,M
+133,1572,Jeremy Hunt,"Hunt, Jeremy",Rt Hon Jeremy Hunt MP,,South West Surrey,Conservative,M
+134,1576,Mark Pritchard,"Pritchard, Mark",Rt Hon Mark Pritchard MP,Mark Pritchard,The Wrekin,Conservative,M
+135,1578,Greg Clark,"Clark, Greg",Rt Hon Greg Clark MP,Greg Clark,Tunbridge Wells,Conservative,M
+136,1581,Mr Peter Bone,"Bone, Mr Peter",Mr Peter Bone MP,Mr Bone,Wellingborough,Conservative,M
+137,1582,Grant Shapps,"Shapps, Grant",Rt Hon Grant Shapps MP,Grant Shapps,Welwyn Hatfield,Conservative,M
+138,1583,Ms Lyn Brown,"Brown, Ms Lyn",Ms Lyn Brown MP,,West Ham,Labour,F
+139,1584,John Penrose,"Penrose, John",John Penrose MP,John Penrose,Weston-super-Mare,Conservative,M
+140,1585,Stephen Hammond,"Hammond, Stephen",Stephen Hammond MP,Stephen Hammond,Wimbledon,Conservative,M
+141,1586,Adam Afriyie,"Afriyie, Adam",Adam Afriyie MP,Adam Afriyie,Windsor,Conservative,M
+142,1587,Pat McFadden,"McFadden, Pat",Rt Hon Pat McFadden MP,,Wolverhampton South East,Labour,M
+143,1588,Barbara Keeley,"Keeley, Barbara",Barbara Keeley MP,Barbara Keeley,Worsley and Eccles South,Labour,F
+144,1591,Tim Farron,"Farron, Tim",Tim Farron MP,Tim Farron,Westmorland and Lonsdale,Liberal Democrat,M
+145,1593,Sammy Wilson,"Wilson, Sammy",Rt Hon Sammy Wilson MP,Sammy Wilson,East Antrim,Democratic Unionist Party,M
+146,1601,Sir Robert Neill,"Neill, Sir Robert",Sir Robert Neill MP,Robert Neill,Bromley and Chislehurst,Conservative,M
+147,1604,Mr Virendra Sharma,"Sharma, Mr Virendra",Mr Virendra Sharma MP,Mr Sharma,"Ealing, Southall",Labour,M
+148,1605,Edward Timpson,"Timpson, Edward",Edward Timpson KC MP,Edward Timpson,Eddisbury,Conservative,M
+149,1606,John Howell,"Howell, John",John Howell MP,John Howell,Henley,Conservative,M
+150,1609,Chloe Smith,"Smith, Chloe",Rt Hon Chloe Smith MP,Chloe Smith,Norwich North,Conservative,F
+151,3912,Richard Fuller,"Fuller, Richard",Richard Fuller MP,,North East Bedfordshire,Conservative,M
+152,3914,Shabana Mahmood,"Mahmood, Shabana",Shabana Mahmood MP,Shabana Mahmood,"Birmingham, Ladywood",Labour,F
+153,3919,Bob Stewart,"Stewart, Bob",Rt Hon Bob Stewart MP,Bob Stewart,Beckenham,Conservative,M
+154,3922,Sir Conor Burns,"Burns, Sir Conor",Rt Hon Sir Conor Burns MP,Sir Conor Burns,Bournemouth West,Conservative,M
+155,3924,Yasmin Qureshi,"Qureshi, Yasmin",Yasmin Qureshi MP,Yasmin Qureshi,Bolton South East,Labour,F
+156,3926,Paul Maynard,"Maynard, Paul",Paul Maynard MP,Paul Maynard,Blackpool North and Cleveleys,Conservative,M
+157,3928,Nick Smith,"Smith, Nick",Nick Smith MP,Nick Smith,Blaenau Gwent,Labour,M
+158,3930,Caroline Lucas,"Lucas, Caroline",Caroline Lucas MP,Caroline Lucas,"Brighton, Pavilion",Green Party,F
+159,3932,Dr Dan Poulter,"Poulter, Dr Dan",Dr Dan Poulter MP,Dr Dan Poulter,Central Suffolk and North Ipswich,Conservative,M
+160,3934,George Eustice,"Eustice, George",Rt Hon George Eustice MP,George Eustice,Camborne and Redruth,Conservative,M
+161,3935,Mel Stride,"Stride, Mel",Rt Hon Mel Stride MP,Mel Stride,Central Devon,Conservative,M
+162,3939,Andrew Percy,"Percy, Andrew",Andrew Percy MP,Andrew Percy,Brigg and Goole,Conservative,M
+163,3940,Craig Whittaker,"Whittaker, Craig",Rt Hon Craig Whittaker MP,Craig Whittaker,Calder Valley,Conservative,M
+164,3942,John Stevenson,"Stevenson, John",John Stevenson MP,John Stevenson,Carlisle,Conservative,M
+165,3943,Jonathan Edwards,"Edwards, Jonathan",Jonathan Edwards MP,Jonathan Edwards,Carmarthen East and Dinefwr,Independent,M
+166,3944,Simon Hart,"Hart, Simon",Simon Hart MP,Simon Hart,Carmarthen West and South Pembrokeshire,Conservative,M
+167,3945,Sajid Javid,"Javid, Sajid",Rt Hon Sajid Javid MP,Sajid Javid,Bromsgrove,Conservative,M
+168,3948,Rebecca Harris,"Harris, Rebecca",Rebecca Harris MP,Rebecca Harris,Castle Point,Conservative,F
+169,3950,Tracey Crouch,"Crouch, Tracey",Tracey Crouch MP,Tracey Crouch,Chatham and Aylesford,Conservative,F
+170,3952,Mr Toby Perkins,"Perkins, Mr Toby",Mr Toby Perkins MP,,Chesterfield,Labour,M
+171,3953,Jason McCartney,"McCartney, Jason",Jason McCartney MP,,Colne Valley,Conservative,M
+172,3957,Martin Vickers,"Vickers, Martin",Martin Vickers MP,Martin Vickers,Cleethorpes,Conservative,M
+173,3958,Fiona Bruce,"Bruce, Fiona",Fiona Bruce MP,Fiona Bruce,Congleton,Conservative,F
+174,3960,Henry Smith,"Smith, Henry",Henry Smith MP,Henry Smith,Crawley,Conservative,M
+175,3966,Ian Murray,"Murray, Ian",Ian Murray MP,Ian Murray,Edinburgh South,Labour,M
+176,3969,Damian Hinds,"Hinds, Damian",Rt Hon Damian Hinds MP,,East Hampshire,Conservative,M
+177,3970,Gareth Johnson,"Johnson, Gareth",Gareth Johnson MP,Gareth Johnson,Dartford,Conservative,M
+178,3973,Grahame Morris,"Morris, Grahame",Grahame Morris MP,Grahame Morris,Easington,Labour,M
+179,3977,Chris Heaton-Harris,"Heaton-Harris, Chris",Rt Hon Chris Heaton-Harris MP,Chris Heaton-Harris,Daventry,Conservative,M
+180,3985,Robert Halfon,"Halfon, Robert",Rt Hon Robert Halfon MP,,Harlow,Conservative,M
+181,3986,Damian Collins,"Collins, Damian",Damian Collins MP,Damian Collins,Folkestone and Hythe,Conservative,M
+182,3987,Rehman Chishti,"Chishti, Rehman",Rehman Chishti MP,Rehman Chishti,Gillingham and Rainham,Conservative,M
+183,3989,Jack Lopresti,"Lopresti, Jack",Jack Lopresti MP,Jack Lopresti,Filton and Bradley Stoke,Conservative,M
+184,3990,Richard Graham,"Graham, Richard",Richard Graham MP,Richard Graham,Gloucester,Conservative,M
+185,3991,Jesse Norman,"Norman, Jesse",Rt Hon Jesse Norman MP,Jesse Norman,Hereford and South Herefordshire,Conservative,M
+186,3992,James Morris,"Morris, James",James Morris MP,James Morris,Halesowen and Rowley Regis,Conservative,M
+187,3996,Andrew Jones,"Jones, Andrew",Andrew Jones MP,Andrew Jones,Harrogate and Knaresborough,Conservative,M
+188,3997,Alec Shelbrooke,"Shelbrooke, Alec",Rt Hon Alec Shelbrooke MP,,Elmet and Rothwell,Conservative,M
+189,3998,Mark Menzies,"Menzies, Mark",Mark Menzies MP,Mark Menzies,Fylde,Conservative,M
+190,4000,Ian Mearns,"Mearns, Ian",Ian Mearns MP,Ian Mearns,Gateshead,Labour,M
+191,4004,Mike Freer,"Freer, Mike",Mike Freer MP,Mike Freer,Finchley and Golders Green,Conservative,M
+192,4005,Bob Blackman,"Blackman, Bob",Bob Blackman MP,Bob Blackman,Harrow East,Conservative,M
+193,4006,Dr Matthew Offord,"Offord, Dr Matthew",Dr Matthew Offord MP,Dr Offord,Hendon,Conservative,M
+194,4007,Dominic Raab,"Raab, Dominic",Rt Hon Dominic Raab MP,Dominic Raab,Esher and Walton,Conservative,M
+195,4008,Dame Caroline Dinenage,"Dinenage, Dame Caroline",Dame Caroline Dinenage MP,Dame Caroline,Gosport,Conservative,F
+196,4009,Sir Brandon Lewis,"Lewis, Sir Brandon",Rt Hon Sir Brandon Lewis MP,Sir Brandon Lewis,Great Yarmouth,Conservative,M
+197,4014,Sir Alok Sharma,"Sharma, Sir Alok",Rt Hon Sir Alok Sharma MP,Alok Sharma,Reading West,Conservative,M
+198,4015,Iain Stewart,"Stewart, Iain",Iain Stewart MP,Iain Stewart,Milton Keynes South,Conservative,M
+199,4017,Penny Mordaunt,"Mordaunt, Penny",Rt Hon Penny Mordaunt MP,Penny Mordaunt,Portsmouth North,Conservative,F
+200,4018,Mrs Helen Grant,"Grant, Mrs Helen",Mrs Helen Grant MP,Mrs Grant,Maidstone and The Weald,Conservative,F
+201,4020,George Freeman,"Freeman, George",George Freeman MP,George Freeman,Mid Norfolk,Conservative,M
+202,4021,Chris Skidmore,"Skidmore, Chris",Rt Hon Chris Skidmore MP,,Kingswood,Conservative,M
+203,4024,Mr Marcus Jones,"Jones, Mr Marcus",Rt Hon Marcus Jones MP,Mr Jones,Nuneaton,Conservative,M
+204,4025,Mrs Pauline Latham,"Latham, Mrs Pauline",Mrs Pauline Latham MP,Mrs Pauline Latham,Mid Derbyshire,Conservative,F
+205,4026,Liz Kendall,"Kendall, Liz",Liz Kendall MP,Liz Kendall,Leicester West,Labour,F
+206,4028,Karl McCartney,"McCartney, Karl",Karl McCartney MP,,Lincoln,Conservative,M
+207,4029,Lilian Greenwood,"Greenwood, Lilian",Lilian Greenwood MP,Lilian Greenwood,Nottingham South,Labour,F
+208,4030,Karl Turner,"Turner, Karl",Karl Turner MP,Karl Turner,Kingston upon Hull East,Labour,M
+209,4031,Rachel Reeves,"Reeves, Rachel",Rt Hon Rachel Reeves MP,Rachel Reeves,Leeds West,Labour,F
+210,4032,Stuart Andrew,"Andrew, Stuart",Rt Hon Stuart Andrew MP,Stuart Andrew,Pudsey,Conservative,M
+211,4033,David Rutley,"Rutley, David",David Rutley MP,David Rutley,Macclesfield,Conservative,M
+212,4034,Yvonne Fovargue,"Fovargue, Yvonne",Yvonne Fovargue MP,Yvonne Fovargue,Makerfield,Labour,F
+213,4040,Chris Evans,"Evans, Chris",Chris Evans MP,Chris Evans,Islwyn,Labour (Co-op),M
+214,4044,Andrew Stephenson,"Stephenson, Andrew",Rt Hon Andrew Stephenson MP,Andrew Stephenson,Pendle,Conservative,M
+215,4046,Bridget Phillipson,"Phillipson, Bridget",Bridget Phillipson MP,Bridget Phillipson,Houghton and Sunderland South,Labour,F
+216,4048,Caroline Nokes,"Nokes, Caroline",Rt Hon Caroline Nokes MP,Caroline Nokes,Romsey and Southampton North,Conservative,F
+217,4050,Gordon Henderson,"Henderson, Gordon",Gordon Henderson MP,Gordon Henderson,Sittingbourne and Sheppey,Conservative,M
+218,4051,John Glen,"Glen, John",Rt Hon John Glen MP,John Glen,Salisbury,Conservative,M
+219,4052,Mark Pawsey,"Pawsey, Mark",Mark Pawsey MP,Mark Pawsey,Rugby,Conservative,M
+220,4053,Mrs Heather Wheeler,"Wheeler, Mrs Heather",Mrs Heather Wheeler MP,Mrs Wheeler,South Derbyshire,Conservative,F
+221,4055,Mark Spencer,"Spencer, Mark",Rt Hon Mark Spencer MP,,Sherwood,Conservative,M
+222,4058,Paul Blomfield,"Blomfield, Paul",Paul Blomfield MP,Paul Blomfield,Sheffield Central,Labour,M
+223,4060,Sir Jake Berry,"Berry, Sir Jake",Sir Jake Berry MP,,Rossendale and Darwen,Conservative,M
+224,4061,Bill Esterson,"Esterson, Bill",Bill Esterson MP,Bill Esterson,Sefton Central,Labour,M
+225,4064,Mr Steve Baker,"Baker, Mr Steve",Mr Steve Baker MP,Mr Baker,Wycombe,Conservative,M
+226,4065,Jackie Doyle-Price,"Doyle-Price, Jackie",Jackie Doyle-Price MP,Jackie Doyle-Price,Thurrock,Conservative,F
+227,4066,Priti Patel,"Patel, Priti",Rt Hon Priti Patel MP,Priti Patel,Witham,Conservative,F
+228,4067,Steve Brine,"Brine, Steve",Steve Brine MP,Steve Brine,Winchester,Conservative,M
+229,4069,Peter Aldous,"Aldous, Peter",Peter Aldous MP,Peter Aldous,Waveney,Conservative,M
+230,4070,Matt Hancock,"Hancock, Matt",Rt Hon Matt Hancock MP,Matt Hancock,West Suffolk,Independent,M
+231,4074,Mark Garnier,"Garnier, Mark",Mark Garnier MP,Mark Garnier,Wyre Forest,Conservative,M
+232,4075,Christopher Pincher,"Pincher, Christopher",Rt Hon Christopher Pincher MP,Christopher Pincher,Tamworth,Independent,M
+233,4076,Valerie Vaz,"Vaz, Valerie",Rt Hon Valerie Vaz MP,,Walsall South,Labour,F
+234,4079,Julian Sturdy,"Sturdy, Julian",Julian Sturdy MP,Julian Sturdy,York Outer,Conservative,M
+235,4082,Lisa Nandy,"Nandy, Lisa",Lisa Nandy MP,Lisa Nandy,Wigan,Labour,F
+236,4083,Alison McGovern,"McGovern, Alison",Alison McGovern MP,Alison McGovern,Wirral South,Labour,F
+237,4084,Esther McVey,"McVey, Esther",Rt Hon Esther McVey MP,Esther McVey,Tatton,Conservative,F
+238,4086,Alun Cairns,"Cairns, Alun",Rt Hon Alun Cairns MP,Alun Cairns,Vale of Glamorgan,Conservative,M
+239,4088,Stella Creasy,"Creasy, Stella",Stella Creasy MP,Stella Creasy,Walthamstow,Labour (Co-op),F
+240,4090,Mr Jonathan Lord,"Lord, Mr Jonathan",Mr Jonathan Lord MP,,Woking,Conservative,M
+241,4091,Mr Robin Walker,"Walker, Mr Robin",Mr Robin Walker MP,Mr Walker,Worcester,Conservative,M
+242,4092,Stephen Metcalfe,"Metcalfe, Stephen",Stephen Metcalfe MP,Stephen Metcalfe,South Basildon and East Thurrock,Conservative,M
+243,4093,Stephen McPartland,"McPartland, Stephen",Rt Hon Stephen McPartland MP,Stephen McPartland,Stevenage,Conservative,M
+244,4095,Steve Barclay,"Barclay, Steve",Rt Hon Steve Barclay MP,,North East Cambridgeshire,Conservative,M
+245,4097,Elizabeth Truss,"Truss, Elizabeth",Rt Hon Elizabeth Truss MP,Elizabeth Truss,South West Norfolk,Conservative,F
+246,4098,Dr Thérèse Coffey,"Coffey, Dr Thérèse",Rt Hon Dr Thérèse Coffey MP,,Suffolk Coastal,Conservative,F
+247,4099,Sir Jacob Rees-Mogg,"Rees-Mogg, Sir Jacob",Rt Hon Sir Jacob Rees-Mogg MP,Sir Jacob Rees-Mogg,North East Somerset,Conservative,M
+248,4100,Mrs Sheryll Murray,"Murray, Mrs Sheryll",Mrs Sheryll Murray MP,Mrs Murray,South East Cornwall,Conservative,F
+249,4105,Justin Tomlinson,"Tomlinson, Justin",Justin Tomlinson MP,Justin Tomlinson,North Swindon,Conservative,M
+250,4106,Sir Robert Buckland,"Buckland, Sir Robert",Rt Hon Sir Robert Buckland KC MP,Sir Robert,South Swindon,Conservative,M
+251,4107,Harriett Baldwin,"Baldwin, Harriett",Harriett Baldwin MP,Harriett Baldwin,West Worcestershire,Conservative,F
+252,4108,Sir Gavin Williamson,"Williamson, Sir Gavin",Rt Hon Sir Gavin Williamson MP,Sir Gavin,South Staffordshire,Conservative,M
+253,4110,Karen Bradley,"Bradley, Karen",Rt Hon Karen Bradley MP,,Staffordshire Moorlands,Conservative,F
+254,4113,Nadhim Zahawi,"Zahawi, Nadhim",Rt Hon Nadhim Zahawi MP,Nadhim Zahawi,Stratford-on-Avon,Conservative,M
+255,4116,Sir Michael  Ellis,"Ellis, Sir Michael",Rt Hon Sir Michael  Ellis MP,Sir Michael Ellis,Northampton North,Conservative,M
+256,4117,Andrea Leadsom,"Leadsom, Andrea",Rt Hon Andrea Leadsom MP,,South Northamptonshire,Conservative,F
+257,4118,Julian Smith,"Smith, Julian",Rt Hon Julian Smith MP,,Skipton and Ripon,Conservative,M
+258,4119,Jonathan Reynolds,"Reynolds, Jonathan",Jonathan Reynolds MP,Jonathan Reynolds,Stalybridge and Hyde,Labour (Co-op),M
+259,4122,Alex Cunningham,"Cunningham, Alex",Alex Cunningham MP,Alex Cunningham,Stockton North,Labour,M
+260,4124,Chi Onwurah,"Onwurah, Chi",Chi Onwurah MP,Chi Onwurah,Newcastle upon Tyne Central,Labour,F
+261,4125,Catherine McKinnell,"McKinnell, Catherine",Catherine McKinnell MP,Catherine McKinnell,Newcastle upon Tyne North,Labour,F
+262,4126,Mary Glindon,"Glindon, Mary",Mary Glindon MP,Mary Glindon,North Tyneside,Labour,F
+263,4127,Julie Elliott,"Elliott, Julie",Julie Elliott MP,Julie Elliott,Sunderland Central,Labour,F
+264,4129,Ian Paisley,"Paisley, Ian",Ian Paisley MP,Ian Paisley,North Antrim,Democratic Unionist Party,M
+265,4131,Jim Shannon,"Shannon, Jim",Jim Shannon MP,Jim Shannon,Strangford,Democratic Unionist Party,M
+266,4132,Richard Drax,"Drax, Richard",Richard Drax MP,Richard Drax,South Dorset,Conservative,M
+267,4133,Andrew Bridgen,"Bridgen, Andrew",Andrew Bridgen MP,Andrew Bridgen,North West Leicestershire,The Reclaim Party,M
+268,4134,Kwasi Kwarteng,"Kwarteng, Kwasi",Rt Hon Kwasi Kwarteng MP,,Spelthorne,Conservative,M
+269,4135,David Morris,"Morris, David",David Morris MP,David Morris,Morecambe and Lunesdale,Conservative,M
+270,4136,Nigel Mills,"Mills, Nigel",Nigel Mills MP,Nigel Mills,Amber Valley,Conservative,M
+271,4138,Rushanara Ali,"Ali, Rushanara",Rushanara Ali MP,Rushanara Ali,Bethnal Green and Bow,Labour,F
+272,4139,Ian Lavery,"Lavery, Ian",Ian Lavery MP,Ian Lavery,Wansbeck,Labour,M
+273,4142,Guy Opperman,"Opperman, Guy",Guy Opperman MP,Guy Opperman,Hexham,Conservative,M
+274,4212,Debbie Abrahams,"Abrahams, Debbie",Debbie Abrahams MP,Debbie Abrahams,Oldham East and Saddleworth,Labour,F
+275,4243,Dan Jarvis,"Jarvis, Dan",Dan Jarvis MP,Dan Jarvis,Barnsley Central,Labour,M
+276,4244,Jonathan Ashworth,"Ashworth, Jonathan",Rt Hon Jonathan Ashworth MP,Jonathan Ashworth,Leicester South,Labour (Co-op),M
+277,4245,Paul Maskey,"Maskey, Paul",Paul Maskey MP,Paul Maskey,Belfast West,Sinn Féin,M
+278,4249,Anne Marie Morris,"Morris, Anne Marie",Anne Marie Morris MP,Anne Marie Morris,Newton Abbot,Conservative,F
+279,4253,Seema Malhotra,"Malhotra, Seema",Seema Malhotra MP,Seema Malhotra,Feltham and Heston,Labour (Co-op),F
+280,4263,Lucy Powell,"Powell, Lucy",Lucy Powell MP,Lucy Powell,Manchester Central,Labour (Co-op),F
+281,4264,Stephen Doughty,"Doughty, Stephen",Stephen Doughty MP,Stephen Doughty,Cardiff South and Penarth,Labour (Co-op),M
+282,4267,Sarah Champion,"Champion, Sarah",Sarah Champion MP,Sarah Champion,Rotherham,Labour,F
+283,4268,Steve Reed,"Reed, Steve",Steve Reed MP,Steve Reed,Croydon North,Labour (Co-op),M
+284,4269,Andy McDonald,"McDonald, Andy",Andy McDonald MP,Andy McDonald,Middlesbrough,Labour,M
+285,4274,Francie Molloy,"Molloy, Francie",Francie Molloy MP,Francie Molloy,Mid Ulster,Sinn Féin,M
+286,4277,Mrs Emma Lewell-Buck,"Lewell-Buck, Mrs Emma",Mrs Emma Lewell-Buck MP,Mrs Lewell-Buck,South Shields,Labour,F
+287,4316,Mike Kane,"Kane, Mike",Mike Kane MP,,Wythenshawe and Sale East,Labour,M
+288,4320,Robert Jenrick,"Jenrick, Robert",Rt Hon Robert Jenrick MP,,Newark,Conservative,M
+289,4356,Angela Rayner,"Rayner, Angela",Rt Hon Angela Rayner MP,Angela Rayner,Ashton-under-Lyne,Labour,F
+290,4357,Kirsty Blackman,"Blackman, Kirsty",Kirsty Blackman MP,Kirsty Blackman,Aberdeen North,Scottish National Party,F
+291,4358,Wendy Morton,"Morton, Wendy",Rt Hon Wendy Morton MP,Wendy Morton,Aldridge-Brownhills,Conservative,F
+292,4359,Stephen Kinnock,"Kinnock, Stephen",Stephen Kinnock MP,Stephen Kinnock,Aberavon,Labour,M
+293,4360,Gavin Robinson,"Robinson, Gavin",Gavin Robinson MP,Gavin Robinson,Belfast East,Democratic Unionist Party,M
+294,4361,Matt Warman,"Warman, Matt",Matt Warman MP,Matt Warman,Boston and Skegness,Conservative,M
+295,4362,Edward Argar,"Argar, Edward",Rt Hon Edward Argar MP,Edward Argar,Charnwood,Conservative,M
+296,4363,Kate Hollern,"Hollern, Kate",Kate Hollern MP,Kate Hollern,Blackburn,Labour,F
+297,4366,James Cleverly,"Cleverly, James",Rt Hon James Cleverly MP,,Braintree,Conservative,M
+298,4368,Neil Coyle,"Coyle, Neil",Neil Coyle MP,Neil Coyle,Bermondsey and Old Southwark,Labour,M
+299,4369,Tom Pursglove,"Pursglove, Tom",Tom Pursglove MP,Tom Pursglove,Corby,Conservative,M
+300,4370,Jess Phillips,"Phillips, Jess",Jess Phillips MP,Jess Phillips,"Birmingham, Yardley",Labour,F
+301,4371,Brendan O'Hara,"O'Hara, Brendan",Brendan O'Hara MP,Brendan O'Hara,Argyll and Bute,Scottish National Party,M
+302,4372,Amanda Solloway,"Solloway, Amanda",Amanda Solloway MP,,Derby North,Conservative,F
+303,4373,Mickey Brady,"Brady, Mickey",Mickey Brady MP,Mr Brady,Newry and Armagh,Sinn Féin,M
+304,4374,Martin Docherty-Hughes,"Docherty-Hughes, Martin",Martin Docherty-Hughes MP,Martin Docherty-Hughes,West Dunbartonshire,Scottish National Party,M
+305,4378,Colleen Fletcher,"Fletcher, Colleen",Colleen Fletcher MP,Colleen Fletcher,Coventry North East,Labour,F
+306,4380,Jo Churchill,"Churchill, Jo",Jo Churchill MP,Jo Churchill,Bury St Edmunds,Conservative,F
+307,4382,Daniel Zeichner,"Zeichner, Daniel",Daniel Zeichner MP,Daniel Zeichner,Cambridge,Labour,M
+308,4384,Mike Wood,"Wood, Mike",Mike Wood MP,Mike Wood,Dudley South,Conservative,M
+309,4385,Dr Philippa Whitford,"Whitford, Dr Philippa",Dr Philippa Whitford MP,Dr Whitford,Central Ayrshire,Scottish National Party,F
+310,4386,Margaret Ferrier,"Ferrier, Margaret",Margaret Ferrier MP,,Rutherglen and Hamilton West,Independent,F
+311,4389,Ruth Cadbury,"Cadbury, Ruth",Ruth Cadbury MP,Ruth Cadbury,Brentford and Isleworth,Labour,F
+312,4390,Ian Blackford,"Blackford, Ian",Rt Hon Ian Blackford MP,Ian Blackford,"Ross, Skye and Lochaber",Scottish National Party,M
+313,4391,Judith Cummins,"Cummins, Judith",Judith Cummins MP,Judith Cummins,Bradford South,Labour,F
+314,4393,Stuart C McDonald,"McDonald, Stuart C",Stuart C McDonald MP,,"Cumbernauld, Kilsyth and Kirkintilloch East",Scottish National Party,M
+315,4394,Imran Hussain,"Hussain, Imran",Imran Hussain MP,Imran Hussain,Bradford East,Labour,M
+316,4396,Rebecca Long Bailey,"Long Bailey, Rebecca",Rebecca Long Bailey MP,Ms Long Bailey,Salford and Eccles,Labour,F
+317,4397,Peter Dowd,"Dowd, Peter",Peter Dowd MP,Peter Dowd,Bootle,Labour,M
+318,4398,Chris Green,"Green, Chris",Chris Green MP,Chris Green,Bolton West,Conservative,M
+319,4399,Victoria Atkins,"Atkins, Victoria",Victoria Atkins MP,Victoria Atkins,Louth and Horncastle,Conservative,F
+320,4400,Margaret Greenwood,"Greenwood, Margaret",Margaret Greenwood MP,Margaret Greenwood,Wirral West,Labour,F
+321,4401,Victoria Prentis,"Prentis, Victoria",Rt Hon Victoria Prentis MP,Victoria Prentis,Banbury,Conservative,F
+322,4402,Douglas Chapman,"Chapman, Douglas",Douglas Chapman MP,Douglas Chapman,Dunfermline and West Fife,Scottish National Party,M
+323,4403,Chris Law,"Law, Chris",Chris Law MP,Chris Law,Dundee West,Scottish National Party,M
+324,4406,Mary Robinson,"Robinson, Mary",Mary Robinson MP,Mary Robinson,Cheadle,Conservative,F
+325,4407,Nigel Huddleston,"Huddleston, Nigel",Nigel Huddleston MP,Nigel Huddleston,Mid Worcestershire,Conservative,M
+326,4409,Naz Shah,"Shah, Naz",Naz Shah MP,Naz Shah,Bradford West,Labour,F
+327,4410,Julian Knight,"Knight, Julian",Julian Knight MP,Julian Knight,Solihull,Independent,M
+328,4411,Lucy Allan,"Allan, Lucy",Lucy Allan MP,Lucy Allan,Telford,Conservative,F
+329,4412,Dr Lisa Cameron,"Cameron, Dr Lisa",Dr Lisa Cameron MP,Dr Cameron,"East Kilbride, Strathaven and Lesmahagow",Scottish National Party,F
+330,4413,Kirsten Oswald,"Oswald, Kirsten",Kirsten Oswald MP,,East Renfrewshire,Scottish National Party,F
+331,4414,Paul Scully,"Scully, Paul",Paul Scully MP,Paul Scully,Sutton and Cheam,Conservative,M
+332,4415,John Nicolson,"Nicolson, John",John Nicolson MP,,Ochil and South Perthshire,Scottish National Party,M
+333,4417,Deidre Brock,"Brock, Deidre",Deidre Brock MP,Deidre Brock,Edinburgh North and Leith,Scottish National Party,F
+334,4418,Justin Madders,"Madders, Justin",Justin Madders MP,Justin Madders,Ellesmere Port and Neston,Labour,M
+335,4419,Joanna Cherry,"Cherry, Joanna",Joanna Cherry KC MP,Joanna Cherry,Edinburgh South West,Scottish National Party,F
+336,4420,Gavin Newlands,"Newlands, Gavin",Gavin Newlands MP,Gavin Newlands,Paisley and Renfrewshire North,Scottish National Party,M
+337,4421,Mhairi Black,"Black, Mhairi",Mhairi Black MP,Mhairi Black,Paisley and Renfrewshire South,Scottish National Party,F
+338,4423,Will Quince,"Quince, Will",Will Quince MP,Will Quince,Colchester,Conservative,M
+339,4424,John McNally,"McNally, John",John McNally MP,John McNally,Falkirk,Scottish National Party,M
+340,4425,Jo Stevens,"Stevens, Jo",Jo Stevens MP,Jo Stevens,Cardiff Central,Labour,F
+341,4429,Mr William Wragg,"Wragg, Mr William",Mr William Wragg MP,Mr Wragg,Hazel Grove,Conservative,M
+342,4430,Alison Thewliss,"Thewliss, Alison",Alison Thewliss MP,Alison Thewliss,Glasgow Central,Scottish National Party,F
+343,4432,Patrick Grady,"Grady, Patrick",Patrick Grady MP,Patrick Grady,Glasgow North,Scottish National Party,M
+344,4433,Thangam Debbonaire,"Debbonaire, Thangam",Thangam Debbonaire MP,Thangam Debbonaire,Bristol West,Labour,F
+345,4435,Patricia Gibson,"Gibson, Patricia",Patricia Gibson MP,Patricia Gibson,North Ayrshire and Arran,Scottish National Party,F
+346,4436,Cat Smith,"Smith, Cat",Cat Smith MP,Cat Smith,Lancaster and Fleetwood,Labour,F
+347,4437,Anne McLaughlin,"McLaughlin, Anne",Anne McLaughlin MP,,Glasgow North East,Scottish National Party,F
+348,4438,Craig Williams,"Williams, Craig",Craig Williams MP,,Montgomeryshire,Conservative,M
+349,4439,Alberto Costa,"Costa, Alberto",Alberto Costa MP,Alberto Costa,South Leicestershire,Conservative,M
+350,4440,Marion Fellows,"Fellows, Marion",Marion Fellows MP,Marion Fellows,Motherwell and Wishaw,Scottish National Party,F
+351,4441,Oliver Dowden,"Dowden, Oliver",Rt Hon Oliver Dowden MP,,Hertsmere,Conservative,M
+352,4442,Huw Merriman,"Merriman, Huw",Huw Merriman MP,Huw Merriman,Bexhill and Battle,Conservative,M
+353,4443,Carol Monaghan,"Monaghan, Carol",Carol Monaghan MP,Carol Monaghan,Glasgow North West,Scottish National Party,F
+354,4444,Karin Smyth,"Smyth, Karin",Karin Smyth MP,Karin Smyth,Bristol South,Labour,F
+355,4446,Mr Marcus Fysh,"Fysh, Mr Marcus",Mr Marcus Fysh MP,Mr Fysh,Yeovil,Conservative,M
+356,4447,Maggie Throup,"Throup, Maggie",Maggie Throup MP,Maggie Throup,Erewash,Conservative,F
+357,4450,Luke Hall,"Hall, Luke",Luke Hall MP,Luke Hall,Thornbury and Yate,Conservative,M
+358,4451,Kevin Foster,"Foster, Kevin",Kevin Foster MP,Kevin Foster,Torbay,Conservative,M
+359,4452,Steve Double,"Double, Steve",Steve Double MP,Steve Double,St Austell and Newquay,Conservative,M
+360,4453,Tommy Sheppard,"Sheppard, Tommy",Tommy Sheppard MP,Tommy Sheppard,Edinburgh East,Scottish National Party,M
+361,4454,Dame Amanda Milling,"Milling, Dame Amanda",Rt Hon Dame Amanda Milling MP,Dame Amanda Milling,Cannock Chase,Conservative,F
+362,4456,Jeff Smith,"Smith, Jeff",Jeff Smith MP,Jeff Smith,"Manchester, Withington",Labour,M
+363,4457,Ms Marie Rimmer,"Rimmer, Ms Marie",Ms Marie Rimmer MP,Ms Marie Rimmer,St Helens South and Whiston,Labour,F
+364,4458,Conor McGinn,"McGinn, Conor",Conor McGinn MP,Conor McGinn,St Helens North,Independent,M
+365,4459,Mrs Flick Drummond,"Drummond, Mrs Flick",Mrs Flick Drummond MP,,Meon Valley,Conservative,F
+366,4460,Ms Nusrat Ghani,"Ghani, Ms Nusrat",Ms Nusrat Ghani MP,,Wealden,Conservative,F
+367,4461,Stewart Malcolm McDonald,"McDonald, Stewart Malcolm",Stewart Malcolm McDonald MP,Stewart Malcolm McDonald,Glasgow South,Scottish National Party,M
+368,4462,Tom Tugendhat,"Tugendhat, Tom",Rt Hon Tom Tugendhat MP,Tom Tugendhat,Tonbridge and Malling,Conservative,M
+369,4463,Chris Stephens,"Stephens, Chris",Chris Stephens MP,Chris Stephens,Glasgow South West,Scottish National Party,M
+370,4465,Ronnie Cowan,"Cowan, Ronnie",Ronnie Cowan MP,Ronnie Cowan,Inverclyde,Scottish National Party,M
+371,4466,Peter Grant,"Grant, Peter",Peter Grant MP,Peter Grant,Glenrothes,Scottish National Party,M
+372,4467,Drew Hendry,"Hendry, Drew",Drew Hendry MP,Drew Hendry,"Inverness, Nairn, Badenoch and Strathspey",Scottish National Party,M
+373,4469,Angela Crawley,"Crawley, Angela",Angela Crawley MP,Angela Crawley,Lanark and Hamilton East,Scottish National Party,F
+374,4470,Alan Brown,"Brown, Alan",Alan Brown MP,Mr Brown,Kilmarnock and Loudoun,Scottish National Party,M
+375,4471,Rachael Maskell,"Maskell, Rachael",Rachael Maskell MP,Rachael Maskell,York Central,Labour (Co-op),F
+376,4472,Holly Lynch,"Lynch, Holly",Holly Lynch MP,Holly Lynch,Halifax,Labour,F
+377,4473,Louise Haigh,"Haigh, Louise",Louise Haigh MP,Louise Haigh,"Sheffield, Heeley",Labour,F
+378,4474,Kevin Hollinrake,"Hollinrake, Kevin",Kevin Hollinrake MP,Kevin Hollinrake,Thirsk and Malton,Conservative,M
+379,4475,Suella Braverman,"Braverman, Suella",Rt Hon Suella Braverman KC MP,Suella Braverman,Fareham,Conservative,F
+380,4476,Dr James Davies,"Davies, Dr James",Dr James Davies MP,,Vale of Clwyd,Conservative,M
+381,4478,Royston Smith,"Smith, Royston",Royston Smith MP,Royston Smith,"Southampton, Itchen",Conservative,M
+382,4479,Nick Thomas-Symonds,"Thomas-Symonds, Nick",Rt Hon Nick Thomas-Symonds MP,Nick Thomas-Symonds,Torfaen,Labour,M
+383,4480,Carolyn Harris,"Harris, Carolyn",Carolyn Harris MP,Carolyn Harris,Swansea East,Labour,F
+384,4481,Alex Chalk,"Chalk, Alex",Alex Chalk KC MP,Alex Chalk,Cheltenham,Conservative,M
+385,4482,Owen Thompson,"Thompson, Owen",Owen Thompson MP,,Midlothian,Scottish National Party,M
+386,4483,Rishi Sunak,"Sunak, Rishi",Rt Hon Rishi Sunak MP,Rishi Sunak,Richmond (Yorks),Conservative,M
+387,4484,Alan Mak,"Mak, Alan",Alan Mak MP,Alan Mak,Havant,Conservative,M
+388,4485,Johnny Mercer,"Mercer, Johnny",Rt Hon Johnny Mercer MP,Johnny Mercer,"Plymouth, Moor View",Conservative,M
+389,4486,Hannah Bardell,"Bardell, Hannah",Hannah Bardell MP,Hannah Bardell,Livingston,Scottish National Party,F
+390,4487,Kelly Tolhurst,"Tolhurst, Kelly",Rt Hon Kelly Tolhurst MP,Kelly Tolhurst,Rochester and Strood,Conservative,F
+391,4488,Martyn Day,"Day, Martyn",Martyn Day MP,Martyn Day,Linlithgow and East Falkirk,Scottish National Party,M
+392,4490,Dame Andrea Jenkyns,"Jenkyns, Dame Andrea",Dame Andrea Jenkyns MP,Dame Andrea Jenkyns,Morley and Outwood,Conservative,F
+393,4491,Vicky Foxcroft,"Foxcroft, Vicky",Vicky Foxcroft MP,Vicky Foxcroft,"Lewisham, Deptford",Labour,F
+394,4492,Maria Caulfield,"Caulfield, Maria",Maria Caulfield MP,Maria Caulfield,Lewes,Conservative,F
+395,4493,Richard Burgon,"Burgon, Richard",Richard Burgon MP,Richard Burgon,Leeds East,Labour,M
+396,4494,Simon Hoare,"Hoare, Simon",Simon Hoare MP,Simon Hoare,North Dorset,Conservative,M
+397,4495,Kit Malthouse,"Malthouse, Kit",Rt Hon Kit Malthouse MP,Kit Malthouse,North West Hampshire,Conservative,M
+398,4496,Scott Mann,"Mann, Scott",Scott Mann MP,Scott Mann,North Cornwall,Conservative,M
+399,4497,Michael Tomlinson,"Tomlinson, Michael",Michael Tomlinson MP,Michael Tomlinson,Mid Dorset and North Poole,Conservative,M
+400,4498,Mr Ranil Jayawardena,"Jayawardena, Mr Ranil",Rt Hon Ranil Jayawardena MP,Mr Jayawardena,North East Hampshire,Conservative,M
+401,4500,Clive Lewis,"Lewis, Clive",Clive Lewis MP,Clive Lewis,Norwich South,Labour,M
+402,4501,Gerald Jones,"Jones, Gerald",Gerald Jones MP,Gerald Jones,Merthyr Tydfil and Rhymney,Labour,M
+403,4503,Chris Philp,"Philp, Chris",Rt Hon Chris Philp MP,Chris Philp,Croydon South,Conservative,M
+404,4504,Wes Streeting,"Streeting, Wes",Wes Streeting MP,Wes Streeting,Ilford North,Labour,M
+405,4505,Peter Kyle,"Kyle, Peter",Peter Kyle MP,Peter Kyle,Hove,Labour,M
+406,4507,Jeremy Quin,"Quin, Jeremy",Rt Hon Jeremy Quin MP,Jeremy Quin,Horsham,Conservative,M
+407,4509,Craig Tracey,"Tracey, Craig",Craig Tracey MP,Craig Tracey,North Warwickshire,Conservative,M
+408,4510,Helen Hayes,"Hayes, Helen",Helen Hayes MP,Helen Hayes,Dulwich and West Norwood,Labour,F
+409,4511,Dr Rupa Huq,"Huq, Dr Rupa",Dr Rupa Huq MP,Dr Huq,Ealing Central and Acton,Labour,F
+410,4512,Caroline Ansell,"Ansell, Caroline",Caroline Ansell MP,,Eastbourne,Conservative,F
+411,4513,Mims Davies,"Davies, Mims",Mims Davies MP,Mims Davies,Mid Sussex,Conservative,F
+412,4514,Keir Starmer,"Starmer, Keir",Rt Hon Keir Starmer MP,Keir Starmer,Holborn and St Pancras,Labour,M
+413,4515,Kate Osamor,"Osamor, Kate",Kate Osamor MP,Kate Osamor,Edmonton,Labour (Co-op),F
+414,4517,Lucy Frazer,"Frazer, Lucy",Rt Hon Lucy Frazer KC MP,Lucy Frazer,South East Cambridgeshire,Conservative,F
+415,4518,Tulip Siddiq,"Siddiq, Tulip",Tulip Siddiq MP,Tulip Siddiq,Hampstead and Kilburn,Labour,F
+416,4519,James Cartlidge,"Cartlidge, James",James Cartlidge MP,James Cartlidge,South Suffolk,Conservative,M
+417,4520,Matthew Pennycook,"Pennycook, Matthew",Matthew Pennycook MP,Matthew Pennycook,Greenwich and Woolwich,Labour,M
+418,4521,Liz Saville Roberts,"Saville Roberts, Liz",Rt Hon Liz Saville Roberts MP,Liz Saville Roberts,Dwyfor Meirionnydd,Plaid Cymru,F
+419,4522,Rebecca Pow,"Pow, Rebecca",Rebecca Pow MP,Rebecca Pow,Taunton Deane,Conservative,F
+420,4523,Catherine West,"West, Catherine",Catherine West MP,Catherine West,Hornsey and Wood Green,Labour,F
+421,4525,Christina Rees,"Rees, Christina",Christina Rees MP,Christina Rees,Neath,Independent,F
+422,4527,Helen Whately,"Whately, Helen",Helen Whately MP,Helen Whately,Faversham and Mid Kent,Conservative,F
+423,4528,James Heappey,"Heappey, James",Rt Hon James Heappey MP,James Heappey,Wells,Conservative,M
+424,4529,Craig Mackinlay,"Mackinlay, Craig",Craig Mackinlay MP,Craig Mackinlay,South Thanet,Conservative,M
+425,4530,Michelle Donelan,"Donelan, Michelle",Rt Hon Michelle Donelan MP,Michelle Donelan,Chippenham,Conservative,F
+426,4531,Anne-Marie Trevelyan,"Trevelyan, Anne-Marie",Rt Hon Anne-Marie Trevelyan MP,Anne-Marie Trevelyan,Berwick-upon-Tweed,Conservative,F
+427,4532,Derek Thomas,"Thomas, Derek",Derek Thomas MP,Derek Thomas,St Ives,Conservative,M
+428,4569,Jim McMahon,"McMahon, Jim",Jim McMahon MP,,Oldham West and Royton,Labour (Co-op),M
+429,4571,Gill Furniss,"Furniss, Gill",Gill Furniss MP,Gill Furniss,"Sheffield, Brightside and Hillsborough",Labour,F
+430,4572,Chris Elmore,"Elmore, Chris",Chris Elmore MP,Chris Elmore,Ogmore,Labour,M
+431,4573,Dr Rosena Allin-Khan,"Allin-Khan, Dr Rosena",Dr Rosena Allin-Khan MP,Dr Rosena Allin-Khan,Tooting,Labour,F
+432,4589,Robert Courts,"Courts, Robert",Robert Courts MP,Robert Courts,Witney,Conservative,M
+433,4591,Sarah Olney,"Olney, Sarah",Sarah Olney MP,,Richmond Park,Liberal Democrat,F
+434,4592,Dr Caroline Johnson,"Johnson, Dr Caroline",Dr Caroline Johnson MP,Dr Caroline Johnson,Sleaford and North Hykeham,Conservative,F
+435,4593,Trudy Harrison,"Harrison, Trudy",Trudy Harrison MP,,Copeland,Conservative,F
+436,4597,Kemi Badenoch,"Badenoch, Kemi",Rt Hon Kemi Badenoch MP,,Saffron Walden,Conservative,F
+437,4598,Mohammad Yasin,"Yasin, Mohammad",Mohammad Yasin MP,Mohammad Yasin,Bedford,Labour,M
+438,4600,Leo Docherty,"Docherty, Leo",Leo Docherty MP,Leo Docherty,Aldershot,Conservative,M
+439,4601,Andrew Bowie,"Bowie, Andrew",Andrew Bowie MP,Andrew Bowie,West Aberdeenshire and Kincardine,Conservative,M
+440,4602,Wera Hobhouse,"Hobhouse, Wera",Wera Hobhouse MP,Wera Hobhouse,Bath,Liberal Democrat,F
+441,4603,Preet Kaur Gill,"Gill, Preet Kaur",Preet Kaur Gill MP,Preet Gill,"Birmingham, Edgbaston",Labour (Co-op),F
+442,4606,David Duguid,"Duguid, David",David Duguid MP,David Duguid,Banff and Buchan,Conservative,M
+443,4607,Stephanie Peacock,"Peacock, Stephanie",Stephanie Peacock MP,Stephanie Peacock,Barnsley East,Labour,F
+444,4608,John Lamont,"Lamont, John",John Lamont MP,John Lamont,"Berwickshire, Roxburgh and Selkirk",Conservative,M
+445,4610,Bambos Charalambous,"Charalambous, Bambos",Bambos Charalambous MP,Bambos Charalambous,"Enfield, Southgate",Independent,M
+446,4612,Jamie Stone,"Stone, Jamie",Jamie Stone MP,Jamie Stone,"Caithness, Sutherland and Easter Ross",Liberal Democrat,M
+447,4613,Alex Burghart,"Burghart, Alex",Alex Burghart MP,Alex Burghart,Brentwood and Ongar,Conservative,M
+448,4615,Lloyd Russell-Moyle,"Russell-Moyle, Lloyd",Lloyd Russell-Moyle MP,Lloyd Russell-Moyle,"Brighton, Kemptown",Labour (Co-op),M
+449,4616,Rosie Duffield,"Duffield, Rosie",Rosie Duffield MP,Rosie Duffield,Canterbury,Labour,F
+450,4617,Matt Western,"Western, Matt",Matt Western MP,Matt Western,Warwick and Leamington,Labour,M
+451,4618,Liz Twist,"Twist, Liz",Liz Twist MP,Liz Twist,Blaydon,Labour,F
+452,4619,Mr Alister Jack,"Jack, Mr Alister",Rt Hon Alister Jack MP,Mr Jack,Dumfries and Galloway,Conservative,M
+453,4620,Ellie Reeves,"Reeves, Ellie",Ellie Reeves MP,Ellie Reeves,Lewisham West and Penge,Labour,F
+454,4621,Darren Jones,"Jones, Darren",Darren Jones MP,Darren Jones,Bristol North West,Labour,M
+455,4623,Tonia Antoniazzi,"Antoniazzi, Tonia",Tonia Antoniazzi MP,Tonia Antoniazzi,Gower,Labour,F
+456,4627,Douglas Ross,"Ross, Douglas",Douglas Ross MP,Douglas Ross,Moray,Conservative,M
+457,4630,Ben Lake,"Lake, Ben",Ben Lake MP,Ben Lake,Ceredigion,Plaid Cymru,M
+458,4631,Sarah Jones,"Jones, Sarah",Sarah Jones MP,Sarah Jones,Croydon Central,Labour,F
+459,4632,Anna McMorrin,"McMorrin, Anna",Anna McMorrin MP,Anna McMorrin,Cardiff North,Labour,F
+460,4633,Paul Girvan,"Girvan, Paul",Paul Girvan MP,Paul Girvan,South Antrim,Democratic Unionist Party,M
+461,4634,Christine Jardine,"Jardine, Christine",Christine Jardine MP,Christine Jardine,Edinburgh West,Liberal Democrat,F
+462,4635,Eddie Hughes,"Hughes, Eddie",Eddie Hughes MP,Eddie Hughes,Walsall North,Conservative,M
+463,4636,Chris Hazzard,"Hazzard, Chris",Chris Hazzard MP,,South Down,Sinn Féin,M
+464,4638,Mr Tanmanjeet Singh Dhesi,"Dhesi, Mr Tanmanjeet Singh",Mr Tanmanjeet Singh Dhesi MP,Mr Dhesi,Slough,Labour,M
+465,4639,Bim Afolami,"Afolami, Bim",Bim Afolami MP,Bim Afolami,Hitchin and Harpenden,Conservative,M
+466,4640,David Linden,"Linden, David",David Linden MP,David Linden,Glasgow East,Scottish National Party,M
+467,4641,Alex Norris,"Norris, Alex",Alex Norris MP,Alex Norris,Nottingham North,Labour (Co-op),M
+468,4643,Jack Brereton,"Brereton, Jack",Jack Brereton MP,Jack Brereton,Stoke-on-Trent South,Conservative,M
+469,4645,Emma Hardy,"Hardy, Emma",Emma Hardy MP,Emma Hardy,Kingston upon Hull West and Hessle,Labour,F
+470,4647,Julia Lopez,"Lopez, Julia",Julia Lopez MP,Julia Lopez,Hornchurch and Upminster,Conservative,F
+471,4651,Dan Carden,"Carden, Dan",Dan Carden MP,Dan Carden,"Liverpool, Walton",Labour,M
+472,4652,Lee Rowley,"Rowley, Lee",Lee Rowley MP,Lee Rowley,North East Derbyshire,Conservative,M
+473,4653,Stephen Morgan,"Morgan, Stephen",Stephen Morgan MP,,Portsmouth South,Labour,M
+474,4654,Matt Rodda,"Rodda, Matt",Matt Rodda MP,Matt Rodda,Reading East,Labour,M
+475,4655,Sir Simon Clarke,"Clarke, Sir Simon",Rt Hon Sir Simon Clarke MP,Sir Simon Clarke,Middlesbrough South and East Cleveland,Conservative,M
+476,4656,Layla Moran,"Moran, Layla",Layla Moran MP,Layla Moran,Oxford West and Abingdon,Liberal Democrat,F
+477,4657,Anneliese Dodds,"Dodds, Anneliese",Anneliese Dodds MP,Anneliese Dodds,Oxford East,Labour (Co-op),F
+478,4658,Alex Sobel,"Sobel, Alex",Alex Sobel MP,Alex Sobel,Leeds North West,Labour (Co-op),M
+479,4659,Andrew Lewer,"Lewer, Andrew",Andrew Lewer MP,Andrew Lewer,Northampton South,Conservative,M
+480,4663,Ben Bradley,"Bradley, Ben",Ben Bradley MP,Ben Bradley,Mansfield,Conservative,M
+481,4667,Mike Amesbury,"Amesbury, Mike",Mike Amesbury MP,Mike Amesbury,Weaver Vale,Labour,M
+482,4668,Rachel Maclean,"Maclean, Rachel",Rachel Maclean MP,Rachel Maclean,Redditch,Conservative,F
+483,4669,Damien Moore,"Moore, Damien",Damien Moore MP,Damien Moore,Southport,Conservative,M
+484,4671,Afzal Khan,"Khan, Afzal",Afzal Khan MP,Afzal Khan,"Manchester, Gorton",Labour,M
+485,4674,Vicky Ford,"Ford, Vicky",Rt Hon Vicky Ford MP,Vicky Ford,Chelmsford,Conservative,F
+486,4676,Marsha De Cordova,"De Cordova, Marsha",Marsha De Cordova MP,Marsha De Cordova,Battersea,Labour,F
+487,4677,Giles Watling,"Watling, Giles",Giles Watling MP,Giles Watling,Clacton,Conservative,M
+488,4679,Neil O'Brien,"O'Brien, Neil",Neil O'Brien MP,Neil O'Brien,Harborough,Conservative,M
+489,4680,Gillian Keegan,"Keegan, Gillian",Gillian Keegan MP,Gillian Keegan,Chichester,Conservative,F
+490,4681,Bob Seely,"Seely, Bob",Bob Seely MP,,Isle of Wight,Conservative,M
+491,4682,Luke Pollard,"Pollard, Luke",Luke Pollard MP,Luke Pollard,"Plymouth, Sutton and Devonport",Labour (Co-op),M
+492,4697,Órfhlaith Begley,"Begley, Órfhlaith",Órfhlaith Begley MP,,West Tyrone,Sinn Féin,F
+493,4698,Janet Daby,"Daby, Janet",Janet Daby MP,,Lewisham East,Labour,F
+494,4716,Ruth Jones,"Jones, Ruth",Ruth Jones MP,,Newport West,Labour,F
+495,4735,Stephen Flynn,"Flynn, Stephen",Stephen Flynn MP,,Aberdeen South,Scottish National Party,M
+496,4736,Dave Doogan,"Doogan, Dave",Dave Doogan MP,,Angus,Scottish National Party,M
+497,4737,Dehenna Davison,"Davison, Dehenna",Dehenna Davison MP,,Bishop Auckland,Conservative,F
+498,4738,Alyn Smith,"Smith, Alyn",Alyn Smith MP,,Stirling,Scottish National Party,M
+499,4739,Jerome Mayhew,"Mayhew, Jerome",Jerome Mayhew MP,,Broadland,Conservative,M
+500,4740,Allan Dorans,"Dorans, Allan",Allan Dorans MP,,"Ayr, Carrick and Cumnock",Scottish National Party,M
+501,4741,Nickie Aiken,"Aiken, Nickie",Nickie Aiken MP,,Cities of London and Westminster,Conservative,F
+502,4742,Stuart Anderson,"Anderson, Stuart",Stuart Anderson MP,,Wolverhampton South West,Conservative,M
+503,4743,Lee Anderson,"Anderson, Lee",Lee Anderson MP,,Ashfield,Conservative,M
+504,4744,Simon Fell,"Fell, Simon",Simon Fell MP,,Barrow and Furness,Conservative,M
+505,4745,Rob Butler,"Butler, Rob",Rob Butler MP,Rob Butler ,Aylesbury,Conservative,M
+506,4746,Robin Millar,"Millar, Robin",Robin Millar MP,,Aberconwy,Conservative,M
+507,4747,Tahir Ali,"Ali, Tahir",Tahir Ali MP,,"Birmingham, Hall Green",Labour,M
+508,4748,Steven Bonnar,"Bonnar, Steven",Steven Bonnar MP,,"Coatbridge, Chryston and Bellshill",Scottish National Party,M
+509,4749,Ian Levy,"Levy, Ian",Ian Levy MP,,Blyth Valley,Conservative,M
+510,4750,Jane Stevenson,"Stevenson, Jane",Jane Stevenson MP,,Wolverhampton North East,Conservative,F
+511,4751,Chris Loder,"Loder, Chris",Chris Loder MP,,West Dorset,Conservative,M
+512,4752,Mark Jenkinson,"Jenkinson, Mark",Mark Jenkinson MP,,Workington,Conservative,M
+513,4753,Mary Kelly Foy,"Foy, Mary Kelly",Mary Kelly Foy MP,,City of Durham,Labour,F
+514,4754,Peter Gibson,"Gibson, Peter",Peter Gibson MP,,Darlington,Conservative,M
+515,4755,Mick Whitley,"Whitley, Mick",Mick Whitley MP,,Birkenhead,Labour,M
+516,4756,Brendan Clarke-Smith,"Clarke-Smith, Brendan",Brendan Clarke-Smith MP,,Bassetlaw,Conservative,M
+517,4757,Shaun Bailey,"Bailey, Shaun",Shaun Bailey MP,,West Bromwich West,Conservative,M
+518,4758,Cherilyn Mackrory,"Mackrory, Cherilyn",Cherilyn Mackrory MP,,Truro and Falmouth,Conservative,F
+519,4759,Joy Morrissey,"Morrissey, Joy",Joy Morrissey MP,,Beaconsfield,Conservative,F
+520,4760,Gary Sambrook,"Sambrook, Gary",Gary Sambrook MP,,"Birmingham, Northfield",Conservative,M
+521,4761,David Johnston,"Johnston, David",David Johnston MP,,Wantage,Conservative,M
+522,4762,Anthony Mangnall,"Mangnall, Anthony",Anthony Mangnall MP,,Totnes,Conservative,M
+523,4763,Fay Jones,"Jones, Fay",Fay Jones MP,,Brecon and Radnorshire,Conservative,F
+524,4764,Bell Ribeiro-Addy,"Ribeiro-Addy, Bell",Bell Ribeiro-Addy MP,,Streatham,Labour,F
+525,4765,Wendy Chamberlain,"Chamberlain, Wendy",Wendy Chamberlain MP,,North East Fife,Liberal Democrat,F
+526,4766,Dr Jamie Wallis,"Wallis, Dr Jamie",Dr Jamie Wallis MP,,Bridgend,Conservative,M
+527,4767,James Sunderland,"Sunderland, James",James Sunderland MP,,Bracknell,Conservative,M
+528,4768,Julie Marson,"Marson, Julie",Julie Marson MP,,Hertford and Stortford,Conservative,F
+529,4769,Daisy Cooper,"Cooper, Daisy",Daisy Cooper MP,,St Albans,Liberal Democrat,F
+530,4770,Amy Callaghan,"Callaghan, Amy",Amy Callaghan MP,,East Dunbartonshire,Scottish National Party,F
+531,4771,Tom Hunt,"Hunt, Tom",Tom Hunt MP,,Ipswich,Conservative,M
+532,4772,Kenny MacAskill,"MacAskill, Kenny",Kenny MacAskill MP,,East Lothian,Alba Party,M
+533,4773,Kate Kniveton,"Kniveton, Kate",Kate Kniveton MP,,Burton,Conservative,F
+534,4774,Mark Fletcher,"Fletcher, Mark",Mark Fletcher MP,,Bolsover,Conservative,M
+535,4775,Elliot Colburn,"Colburn, Elliot",Elliot Colburn MP,,Carshalton and Wallington,Conservative,M
+536,4776,Munira Wilson,"Wilson, Munira",Munira Wilson MP,,Twickenham,Liberal Democrat,F
+537,4777,Sarah Owen,"Owen, Sarah",Sarah Owen MP,,Luton North,Labour,F
+538,4778,Greg Smith,"Smith, Greg",Greg Smith MP,,Buckingham,Conservative,M
+539,4779,Taiwo Owatemi,"Owatemi, Taiwo",Taiwo Owatemi MP,,Coventry North West,Labour,F
+540,4780,Laura Trott,"Trott, Laura",Laura Trott MP,,Sevenoaks,Conservative,F
+541,4781,Dr Luke Evans,"Evans, Dr Luke",Dr Luke Evans MP,,Bosworth,Conservative,M
+542,4782,Neale Hanvey,"Hanvey, Neale",Neale Hanvey MP,,Kirkcaldy and Cowdenbeath,Alba Party,M
+543,4783,Kate Osborne,"Osborne, Kate",Kate Osborne MP,,Jarrow,Labour,F
+544,4784,Duncan Baker,"Baker, Duncan",Duncan Baker MP,,North Norfolk,Conservative,M
+545,4785,Dr Ben Spencer,"Spencer, Dr Ben",Dr Ben Spencer MP,,Runnymede and Weybridge,Conservative,M
+546,4786,Zarah Sultana,"Sultana, Zarah",Zarah Sultana MP,,Coventry South,Labour,F
+547,4787,James Wild,"Wild, James",James Wild MP,,North West Norfolk,Conservative,M
+548,4788,Fleur Anderson,"Anderson, Fleur",Fleur Anderson MP,,Putney,Labour,F
+549,4789,Marco Longhi,"Longhi, Marco",Marco Longhi MP,,Dudley North,Conservative,M
+550,4790,Apsana Begum,"Begum, Apsana",Apsana Begum MP,,Poplar and Limehouse,Labour,F
+551,4791,Andy Carter,"Carter, Andy",Andy Carter MP,,Warrington South,Conservative,M
+552,4792,Paul Bristow,"Bristow, Paul",Paul Bristow MP,,Peterborough,Conservative,M
+553,4793,Scott Benton,"Benton, Scott",Scott Benton MP,,Blackpool South,Independent,M
+554,4794,Darren Henry,"Henry, Darren",Darren Henry MP,,Broxtowe,Conservative,M
+555,4795,Mrs Natalie Elphicke,"Elphicke, Mrs Natalie",Mrs Natalie Elphicke MP,,Dover,Conservative,F
+556,4796,Richard Thomson,"Thomson, Richard",Richard Thomson MP,,Gordon,Scottish National Party,M
+557,4797,James Murray,"Murray, James",James Murray MP,,Ealing North,Labour (Co-op),M
+558,4798,Gareth Bacon,"Bacon, Gareth",Gareth Bacon MP,Gareth Bacon,Orpington,Conservative,M
+559,4799,Charlotte Nichols,"Nichols, Charlotte",Charlotte Nichols MP,,Warrington North,Labour,F
+560,4800,Simon Baynes,"Baynes, Simon",Simon Baynes MP,,Clwyd South,Conservative,M
+561,4801,Anthony Browne,"Browne, Anthony",Anthony Browne MP,,South Cambridgeshire,Conservative,M
+562,4802,Suzanne Webb,"Webb, Suzanne",Suzanne Webb MP,,Stourbridge,Conservative,F
+563,4803,Paul Holmes,"Holmes, Paul",Paul Holmes MP,,Eastleigh,Conservative,M
+564,4804,Mr Gagan Mohindra,"Mohindra, Mr Gagan",Mr Gagan Mohindra MP,,South West Hertfordshire,Conservative,M
+565,4805,Alicia Kearns,"Kearns, Alicia",Alicia Kearns MP,,Rutland and Melton,Conservative,F
+566,4806,Claire Coutinho,"Coutinho, Claire",Claire Coutinho MP,,East Surrey,Conservative,F
+567,4807,Mark Eastwood,"Eastwood, Mark",Mark Eastwood MP,,Dewsbury,Conservative,M
+568,4808,Ruth Edwards,"Edwards, Ruth",Ruth Edwards MP,,Rushcliffe,Conservative,F
+569,4809,Beth Winter,"Winter, Beth",Beth Winter MP,,Cynon Valley,Labour,F
+570,4810,Mr Rob Roberts,"Roberts, Mr Rob",Mr Rob Roberts MP,Mr Roberts,Delyn,Independent,M
+571,4811,Navendu Mishra,"Mishra, Navendu",Navendu Mishra MP,,Stockport,Labour,M
+572,4812,Dean Russell,"Russell, Dean",Dean Russell MP,,Watford,Conservative,M
+573,4813,Mr Richard Holden,"Holden, Mr Richard",Mr Richard Holden MP,,North West Durham,Conservative,M
+574,4814,Jonathan Gullis,"Gullis, Jonathan",Jonathan Gullis MP,,Stoke-on-Trent North,Conservative,M
+575,4815,Mark Logan,"Logan, Mark",Mark Logan MP,,Bolton North East,Conservative,M
+576,4816,Miss Sarah Dines,"Dines, Miss Sarah",Miss Sarah Dines MP,,Derbyshire Dales,Conservative,F
+577,4817,Jo Gideon,"Gideon, Jo",Jo Gideon MP,,Stoke-on-Trent Central,Conservative,F
+578,4818,Saqib Bhatti,"Bhatti, Saqib",Saqib Bhatti MP,,Meriden,Conservative,M
+579,4819,Theo Clarke,"Clarke, Theo",Theo Clarke MP,,Stafford,Conservative,F
+580,4820,Abena Oppong-Asare,"Oppong-Asare, Abena",Abena Oppong-Asare MP,,Erith and Thamesmead,Labour,F
+581,4821,Felicity Buchan,"Buchan, Felicity",Felicity Buchan MP,,Kensington,Conservative,F
+582,4822,Feryal Clark,"Clark, Feryal",Feryal Clark MP,,Enfield North,Labour,F
+583,4823,John Finucane,"Finucane, John",John Finucane MP,,Belfast North,Sinn Féin,M
+584,4824,Kim Johnson,"Johnson, Kim",Kim Johnson MP,,"Liverpool, Riverside",Labour,F
+585,4825,Jacob Young,"Young, Jacob",Jacob Young MP,,Redcar,Conservative,M
+586,4826,Laura Farris,"Farris, Laura",Laura Farris MP,,Newbury,Conservative,F
+587,4827,Claire Hanna,"Hanna, Claire",Claire Hanna MP,,Belfast South,Social Democratic & Labour Party,F
+588,4828,Paula Barker,"Barker, Paula",Paula Barker MP,,"Liverpool, Wavertree",Labour,F
+589,4829,Sam Tarry,"Tarry, Sam",Sam Tarry MP,,Ilford South,Labour,M
+590,4830,Paul Howell,"Howell, Paul",Paul Howell MP,,Sedgefield,Conservative,M
+591,4831,Ian Byrne,"Byrne, Ian",Ian Byrne MP,,"Liverpool, West Derby",Labour,M
+592,4832,Nick Fletcher,"Fletcher, Nick",Nick Fletcher MP,,Don Valley,Conservative,M
+593,4833,Antony Higginbotham,"Higginbotham, Antony",Antony Higginbotham MP,,Burnley,Conservative,M
+594,4834,Katherine Fletcher,"Fletcher, Katherine",Katherine Fletcher MP,,South Ribble,Conservative,F
+595,4835,Chris Clarkson,"Clarkson, Chris",Chris Clarkson MP,,Heywood and Middleton,Conservative,M
+596,4836,Ben Everitt,"Everitt, Ben",Ben Everitt MP,,Milton Keynes North,Conservative,M
+597,4837,Aaron Bell,"Bell, Aaron",Aaron Bell MP,,Newcastle-under-Lyme,Conservative,M
+598,4838,Sara Britcliffe,"Britcliffe, Sara",Sara Britcliffe MP,,Hyndburn,Conservative,F
+599,4839,Jane Hunt,"Hunt, Jane",Jane Hunt MP,,Loughborough,Conservative,F
+600,4840,Angela Richardson,"Richardson, Angela",Angela Richardson MP,,Guildford,Conservative,F
+601,4842,Sally-Ann Hart,"Hart, Sally-Ann",Sally-Ann Hart MP,,Hastings and Rye,Conservative,F
+602,4843,James Grundy,"Grundy, James",James Grundy MP,,Leigh,Conservative,M
+603,4844,Matt Vickers,"Vickers, Matt",Matt Vickers MP,,Stockton South,Conservative,M
+604,4845,Tom Randall,"Randall, Tom",Tom Randall MP,,Gedling,Conservative,M
+605,4846,Colum Eastwood,"Eastwood, Colum",Colum Eastwood MP,,Foyle,Social Democratic & Labour Party,M
+606,4847,Siobhan Baillie,"Baillie, Siobhan",Siobhan Baillie MP,,Stroud,Conservative,F
+607,4848,Claudia Webbe,"Webbe, Claudia",Claudia Webbe MP,,Leicester East,Independent,F
+608,4849,Alex Davies-Jones,"Davies-Jones, Alex",Alex Davies-Jones MP,,Pontypridd,Labour,F
+609,4850,Gareth Davies,"Davies, Gareth",Gareth Davies MP,,Grantham and Stamford,Conservative,M
+610,4851,Lia Nici,"Nici, Lia",Lia Nici MP,Lia Nici,Great Grimsby,Conservative,F
+611,4852,Robert Largan,"Largan, Robert",Robert Largan MP,,High Peak,Conservative,M
+612,4853,Dr Neil Hudson,"Hudson, Dr Neil",Dr Neil Hudson MP,,Penrith and The Border,Conservative,M
+613,4854,James Daly,"Daly, James",James Daly MP,,Bury North,Conservative,M
+614,4855,Sarah Atherton,"Atherton, Sarah",Sarah Atherton MP,,Wrexham,Conservative,F
+615,4856,Stephen Farry,"Farry, Stephen",Stephen Farry MP,,North Down,Alliance,M
+616,4857,Carla Lockhart,"Lockhart, Carla",Carla Lockhart MP,,Upper Bann,Democratic Unionist Party,F
+617,4858,Danny Kruger,"Kruger, Danny",Danny Kruger MP,,Devizes,Conservative,M
+618,4859,Virginia Crosbie,"Crosbie, Virginia",Virginia Crosbie MP,,Ynys Môn,Conservative,F
+619,4860,Dr Kieran Mullan,"Mullan, Dr Kieran",Dr Kieran Mullan MP,,Crewe and Nantwich,Conservative,M
+620,4861,Robbie Moore,"Moore, Robbie",Robbie Moore MP,,Keighley,Conservative,M
+621,4862,Simon Jupp,"Jupp, Simon",Simon Jupp MP,,East Devon,Conservative,M
+622,4863,Selaine Saxby,"Saxby, Selaine",Selaine Saxby MP,,North Devon,Conservative,F
+623,4864,Olivia Blake,"Blake, Olivia",Olivia Blake MP,,"Sheffield, Hallam",Labour,F
+624,4865,Miriam Cates,"Cates, Miriam",Miriam Cates MP,,Penistone and Stocksbridge,Conservative,F
+625,4866,Alexander Stafford,"Stafford, Alexander",Alexander Stafford MP,,Rother Valley,Conservative,M
+626,4867,Holly Mumby-Croft,"Mumby-Croft, Holly",Holly Mumby-Croft MP,,Scunthorpe,Conservative,F
+627,4868,Nicola Richards,"Richards, Nicola",Nicola Richards MP,,West Bromwich East,Conservative,F
+628,4869,Nadia Whittome,"Whittome, Nadia",Nadia Whittome MP,,Nottingham East,Labour,F
+629,4870,Florence Eshalomi,"Eshalomi, Florence",Florence Eshalomi MP,,Vauxhall,Labour (Co-op),F
+630,4871,Christian Wakeford,"Wakeford, Christian",Christian Wakeford MP,,Bury South,Labour,M
+631,4872,David Simmonds,"Simmonds, David",David Simmonds MP,,"Ruislip, Northwood and Pinner",Conservative,M
+632,4873,Rachel Hopkins,"Hopkins, Rachel",Rachel Hopkins MP,,Luton South,Labour,F
+633,4874,Andrew Griffith,"Griffith, Andrew",Andrew Griffith MP,,Arundel and South Downs,Conservative,M
+634,4916,Jill Mortimer,"Mortimer, Jill",Jill Mortimer MP,,Hartlepool,Conservative,F
+635,4917,Ms Anum Qaisar,"Qaisar, Ms Anum",Ms Anum Qaisar MP,,Airdrie and Shotts,Scottish National Party,F
+636,4918,Sarah Green,"Green, Sarah",Sarah Green MP,,Chesham and Amersham,Liberal Democrat,F
+637,4923,Kim Leadbeater,"Leadbeater, Kim",Kim Leadbeater MP,,Batley and Spen,Labour,F
+638,4932,Mr Louie French,"French, Mr Louie",Mr Louie French MP,,Old Bexley and Sidcup,Conservative,M
+639,4934,Helen Morgan,"Morgan, Helen",Helen Morgan MP,,North Shropshire,Liberal Democrat,F
+640,4936,Anna Firth,"Firth, Anna",Anna Firth MP,,Southend West,Conservative,F
+641,4938,Mrs Paulette Hamilton,"Hamilton, Mrs Paulette",Mrs Paulette Hamilton MP,,"Birmingham, Erdington",Labour,F
+642,4942,Richard Foord,"Foord, Richard",Richard Foord MP,,Tiverton and Honiton,Liberal Democrat,M
+643,4943,Simon Lightwood,"Lightwood, Simon",Simon Lightwood MP,,Wakefield,Labour (Co-op),M
+644,4976,Samantha Dixon,"Dixon, Samantha",Samantha Dixon MP,,City of Chester,Labour,F
+645,4979,Andrew Western,"Western, Andrew",Andrew Western MP,,Stretford and Urmston,Labour,M
+646,4981,Ashley Dalton,"Dalton, Ashley",Ashley Dalton MP,,West Lancashire,Labour,F
+647,4993,Keir Mather,"Mather, Keir",Keir Mather MP,,Selby and Ainsty,Labour,M
+648,4994,Steve Tuckwell,"Tuckwell, Steve",Steve Tuckwell MP,,Uxbridge and South Ruislip,Conservative,M
+649,4995,Sarah Dyke,"Dyke , Sarah",Sarah Dyke  MP,,Somerton and Frome,Liberal Democrat,F
