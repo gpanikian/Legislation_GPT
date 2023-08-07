@@ -1,6 +1,6 @@
 
 import streamlit as st
-
+from Legislation_GPT.core.Query import process_pdf
 from dotenv import load_dotenv
 import os
 load_dotenv()
@@ -25,6 +25,13 @@ def sidebar():
         st.session_state["OPENAI_API_KEY"] =  api_key_input.replace('\ufeff', '')
 
         st.markdown("---")
+        # File Uploader for PDF
+        uploaded_pdf = st.file_uploader("Upload an amendment here", type=["pdf"])
+        if uploaded_pdf is not None:
+            # Button to process the uploaded PDF
+            if st.button("Upload Amendments Summary"):
+                process_pdf(uploaded_pdf)
+
         st.markdown("# About")
         st.markdown(
             "LPT allows you to ask questions about an "
