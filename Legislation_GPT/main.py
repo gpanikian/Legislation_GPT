@@ -2,12 +2,18 @@ import streamlit as st
 
 import openai
 import os
+#from Legislation_GPT.core.caching import bootstrap_caching
+
+from Legislation_GPT.core.Query_Bill import process_pdf
 
 from Legislation_GPT.components.sidebar import sidebar
 
 from Legislation_GPT.tools.ui import is_open_ai_key_valid
 
 from Legislation_GPT.core.Query import set_member_name
+
+#BT = ""
+#AS = ""
 
 st.set_page_config(page_title="Legislative Passage Toolkit", page_icon="📖", layout="wide")
 st.header("📖Legislative Passage Toolkit")
@@ -30,7 +36,24 @@ if not openai.api_key:
 if not is_open_ai_key_valid(openai.api_key):
     st.stop()
 
-membernam = st.text_input(
+
+# File Uploader for PDF
+#IsPushed = False
+uploaded_pdf = st.file_uploader("Upload an amendment here", type=["pdf"])
+if uploaded_pdf is not None:
+    # Button to process the uploaded PDF
+    if st.button("Upload Amendments Summary"):
+        BT, AS = process_pdf(uploaded_pdf)
+        IsPushed = True
+        st. markdown(BT)
+        st.markdown(AS)
+
+    if "Upload Amendments Summary" not in st.session_state:
+        st.session_state["Upload Amendments Summary"] = False
+
+
+
+member_name = st.text_input(
             "name of the MP",
             type="default",
             placeholder="Enter the name of the MP that you would like further detail on",
@@ -38,4 +61,7 @@ membernam = st.text_input(
             value = ""
             )
 if st.button("Search MP"):
-    set_member_name(membernam)
+    #st.markdown(BT)
+    #st.markdown(AS)
+    st.session_state["Upload Amendments Summary"] =  st.session_state["Upload Amendments Summary"]
+    set_member_name(member_name)
